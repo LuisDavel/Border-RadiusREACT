@@ -1,0 +1,17 @@
+.container_CodeTela {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+label {
+  margin-bottom: 10px;
+}
+
+.content_agroup__para {
+  border: 2px solid var(--cor-bg-principal);
+  font-size: 11px;
+  padding: 5px 10px;
+  height: 125px;
+  resize: none;
+}
