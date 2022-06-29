@@ -1,2 +1,5 @@
 # Border-RadiusREACT
-Created with CodeSandbox
+<hr>
+
+É um preview de border-radius para te auxiliar no desenvolvimento.
+
